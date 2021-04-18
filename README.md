@@ -1,7 +1,7 @@
 php-simple-html-dom-parser
 ==========================
 
-Version 1.9.1(291)
+Version 1.9.1(291) - Update 18/4/2021
 
 Adaptation for Composer and PSR-0 of:
 
@@ -21,7 +21,7 @@ Install
 ```json
 "require": {
     "drnxloc/laravel-simple-html-dom": "1.9.1"
-    }
+}
 ```
 
 Usage
