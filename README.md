@@ -28,7 +28,7 @@ Usage
 -----
 
 ```php
-use Drnxloc\PhpSimple\HtmlDomParser;
+use Drnxloc\LaravelHtmlDom\HtmlDomParser;
 
 ...
 $dom = HtmlDomParser::str_get_html( $str );
