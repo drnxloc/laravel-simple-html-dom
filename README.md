@@ -1,4 +1,4 @@
-php-simple-html-dom-parser
+laravel-simple-html-dom
 ==========================
 
 Version 1.9.1(291) - Update 18/4/2021
