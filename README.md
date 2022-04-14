@@ -19,9 +19,7 @@ Install
 
  composer.phar
 ```json
-"require": {
-    "drnxloc/laravel-simple-html-dom": "1.9.1"
-}
+ composer require drnxloc/laravel-simple-html-dom
 ```
 
 Usage
