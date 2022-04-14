@@ -17,9 +17,8 @@ http://simplehtmldom.sourceforge.net/
 Install
 -------
 
- composer.phar
-```json
- composer require drnxloc/laravel-simple-html-dom
+```php
+composer require drnxloc/laravel-simple-html-dom
 ```
 
 Usage
